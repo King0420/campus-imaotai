@@ -27,11 +27,11 @@ i茅台app，每日自动预约茅台
 
 此项目使用 **Campus** 进行编写：<https://github.com/oddfar/campus>
 
-## 文档
+## docker一键部署教程
 
-- 文档：https://oddfar.github.io/campus-doc/campus-imaotai
+- 文档：[https://oddfar.github.io/campus-doc/campus-imaotai](https://github.com/oddfar/campus-imaotai/wiki/%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE)
 
-- 视频：https://www.bilibili.com/video/BV1dj411H7oT
+
 
 
 ## 演示图
