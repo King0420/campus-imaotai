@@ -31,7 +31,12 @@ i茅台app，每日自动预约茅台
 
 
 [下载](https://github.com/xiankaiyao/campus-imaotai/releases/tag/v1.0.12)
-[文字教程](https://github.com/oddfar/campus-imaotai/wiki/%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE)
+
+[教程](https://github.com/oddfar/campus-imaotai/wiki/%E9%83%A8%E7%BD%B2%E9%A1%B9%E7%9B%AE)
+
+![image](https://github.com/King0420/campus-imaotai/assets/104044278/7aad01e2-05fe-4e60-b115-bfc93b3e8151)
+
+![image](https://github.com/King0420/campus-imaotai/assets/104044278/91714a4a-6710-45ca-9ab9-75f925447d86)
 
 
 ## 演示图
