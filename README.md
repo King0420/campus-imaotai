@@ -11,6 +11,8 @@
 
 
 ## docker一键部署教程
+> campus-modular.jar 是打包好的jar包，dist_1.0.12.tar.gz是打包好的前端文件，1.0.12.zip是docker一键启动所有服务（nginx redis mysql java）的配置文件。
+
 
 [下载](https://github.com/xiankaiyao/campus-imaotai/releases/tag/v1.0.12)
 
